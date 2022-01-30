@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ommame
-- 👀 I’m interested in ...
+- 👀 I’m interested in creating cool things
 - 🌱 I’m currently learning finnish & html & design
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on creative stuff
 - 📫 How to reach me georgiishnurenkoinsec@gmail.com
 
 <!---
