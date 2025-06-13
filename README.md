@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ommame
-- 👀 I’m interested in creating cool things
-- 🌱 I’m currently learning finnish & html & design
+- 👀 I’m interested in qgis maps
+- 🌱 I’m currently learning mapping & design & civil engineering
 - 💞️ I’m looking to collaborate on creative stuff
 - 📫 How to reach me georgiishnurenkoinsec@gmail.com
 
